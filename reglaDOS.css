@@ -39,7 +39,7 @@
 .btnC{width:95;margin-left:-13;font-size:1vw;}
 .btnD{width:95;margin-left:-13;font-size:calc(1vh + 1.5vh););}
 /* CAJA DE TEXTO */
-.CajaS{width: 45%; margin-right:35px; padding: 1em; background: white ;float:left;">
+.CajaS{width: 45%; margin-right:35px; padding: 1em; background: white ;float:left;}
 
 /* CAJAS DIV */
  .col-2{-webkit-column-count: 2; /* Chrome, Safari, Opera */
