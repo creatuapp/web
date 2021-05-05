@@ -1,4 +1,4 @@
-#EXTM3Ua
+#EXTM3U
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",3sat [Geo-blocked]
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" tvg-url="" group-title="",a.tv (1080p)
